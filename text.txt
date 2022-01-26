@@ -1,1 +1,1 @@
-hello, i am practising git
+hello, i am practicing git
